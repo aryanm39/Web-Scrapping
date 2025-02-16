@@ -1,0 +1,17 @@
+query,query_number,start_page,end_page
+Character-Puzzles,05200,1,11
+Logical-Sequence-of-Words,05300,1,5
+Blood-Relation-Test,00600,1,10
+Syllogism,00900,1,3
+Series-Completion,07300,1,10
+Cause-and-Effect,01600,1,8
+Dice,01300,1,4
+Venn-Diagrams,01700,1,9
+Analogy,03500,1,6
+Seating-Arrangement
+Direction-Sense-Test,00100,1,8
+Classification,05400,1,10
+Data-Sufficiency,06700,1,10
+Arithmetic-Reasoning,07100,1,10
+Verification-of-Truth,01200,1,7
+
