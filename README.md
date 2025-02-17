@@ -36,7 +36,7 @@ CREDENTIALS_JSON=<your_firebase_credentials_json>
 3. Ensure `chromedriver` is installed for Selenium.
 4. Run the script:
    ```bash
-   python test.py
+   python indiabix_optimised.py
    ```
 
 ## Usage
@@ -64,15 +64,15 @@ The script uses Python's `logging` module to log warnings, errors, and progress 
 
 ## File Structure
 ```
-├── test.py
+├── indiabix_optimised.py
 ├── .env
 ├── requirements.txt
-├── data/
-│   ├── <category>/<query>/
+├── INDIABIX/
+│   ├── <Category>/<Topics>/
 │   │   ├── 0.html
 │   │   ├── 1.html
-│   │   ├── query.csv
-│   │   ├── query.log
+│   │   ├── Category.csv
+│   │   ├── Category.log
 ```
 
 ## Notes
