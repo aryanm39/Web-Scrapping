@@ -1,0 +1,24 @@
+question,options,answer,explanation
+"Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?","['(1/3)', '(1/8)', '(2/8)', '(1/16)']",B,"This is a simple division series; each number is one-half of the previous number.In other terms to say, the number is divided by 2 successively to get the next result.4/2 = 2
+2/2 = 1
+1/2 = 1/2
+(1/2)/2 = 1/4
+(1/4)/2 = 1/8 and so on."
+"Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?","['7', '10', '12', '13']",B,"This is a simple alternating addition and subtraction series. In the first pattern, 3 is added; in the second, 2 is subtracted."
+"Look at this series: 1.5, 2.3, 3.1, 3.9, ... What number should come next?","['4.2', '4.4', '4.7', '5.1']",C,"In this simple addition series, each number increases by 0.8."
+"Look at this series: 14, 28, 20, 40, 32, 64, ... What number should come next?","['52', '56', '96', '128']",B,"This is an alternating multiplication and subtracting  series: First, multiply by 2 and then subtract 8."
+"Look at this series: 2, 4, 6, 8, 10, ... What number should come next?","['11', '12', '13', '14']",B,This is a simple addition series. Each number increases by 2.
+"Look at this series: 201, 202, 204, 207, ... What number should come next?","['205', '208', '210', '211']",D,"In this addition series, 1 is added to the first number; 2 is added to the second number; 3 is added to the third number; 4 is added to the fourth number; and go on."
+"Look at this series: 544, 509, 474, 439, ... What number should come next?","['404', '414', '420', '445']",A,This is a simple subtraction series. Each number is 35 less than the previous number.
+"Look at this series: 80, 10, 70, 15, 60, ... What number should come next?","['20', '25', '30', '50']",A,"This is an alternating addition and subtraction series. In the first pattern, 10 is subtracted from each number to arrive at the next. In the second, 5 is added to each number to arrive at the next."
+"Look at this series: 2, 6, 18, 54, ... What number should come next?","['108', '148', '162', '216']",C,This is a simple multiplication series. Each number is 3 times more than the previous number.
+"Look at this series: 5.2, 4.8, 4.4, 4, ... What number should come next?","['3', '3.3', '3.5', '3.6']",D,"In this simple subtraction series, each number decreases by 0.4."
+"Look at this series: 8, 6, 9, 23, 87 , ... What number should come next?","['128', '226', '324', '429']",D,8 x 1 - 2 = 66 x 2 - 3 = 99 x 3 - 4 = 2323 x 4 - 5 = 8787 x 5 - 6 = 429 ...
+"Look at this series: 36, 34, 30, 28, 24, ... What number should come next?","['20', '22', '23', '26']",B,"This is an alternating number subtraction series. First, 2 is subtracted, then 4, then 2, and so on."
+"Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?","['22', '24', '25', '26']",C,"In this simple alternating subtraction and addition series; 1 is subtracted, then 2 is added, and so on."
+"Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?","['12', '14', '27', '53']",B,"In this series, each number is repeated, then 13 is subtracted to arrive at the next number."
+"Look at this series: 21, 9, 21, 11, 21, 13, 21, ... What number should come next?","['14', '15', '21', '23']",B,"In this alternating repetition series, the random number 21 is interpolated every other number into an otherwise simple addition series that increases by 2, beginning with the number 9."
+"Look at this series: 58, 52, 46, 40, 34, ... What number should come next?","['26', '28', '30', '32']",B,This is a simple subtraction series. Each number is 6 less than the previous number.
+"Look at this series: 3, 4, 7, 8, 11, 12, ... What number should come next?","['7', '10', '14', '15']",D,"This alternating addition series begins with 3; then 1 is added to give 4; then 3 is added to give 7; then 1 is added, and so on."
+"Look at this series: 8, 22, 8, 28, 8, ... What number should come next?","['9', '29', '32', '34']",D,"This is a simple addition series with a random number, 8, interpolated as every other number. In the series, 6 is added to each number except 8, to arrive at the next number."
+"Look at this series: 31, 29, 24, 22, 17, ... What number should come next?","['15', '14', '13', '12']",A,"This is a simple alternating subtraction series, which subtracts 2, then 5."

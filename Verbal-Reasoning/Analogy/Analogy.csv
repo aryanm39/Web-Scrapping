@@ -1,0 +1,29 @@
+question,options,answer,explanation
+CUP : LIP :: BIRD : ?,"['BUSH', 'GRASS', 'FOREST', 'BEAK']",D,Cup is used to drink something with the help of lips. Similarly birds collects grass with the help of beak to make her nest.
+Flow : River :: Stagnant : ?,"['Rain', 'Stream', 'Pool', 'Canal']",C,As Water of a River flows similarly water of Pool is Stagnant.
+Conference : Chairman :: Newspaper : ?,"['Reporter', 'Distributor', 'Printer', 'Editor']",D,As Chairman is the highest authority in a conference similarly Editor is in Newspaper.
+Safe : Secure :: Protect : ?,"['Lock', 'Sure', 'Guard', 'Conserve']",C,As safe ans secure have same meaning in the same way protect and guard have same meaning.
+Master : OCUVGT :: LABOUR : ?,"['NCDQWT', 'NDERWT', 'NBERWT', 'NEDRWT']",A,
+Microphone : Loud :: Microscope : ?,"['Elongate', 'Investigate', 'Magnify', 'Examine']",C,As Microphone makes sound louder similarly Microscope makes the object magnified.
+Melt : Liquid :: Freeze : ?,"['Ice', 'Condense', 'Solid', 'Force']",C,"As on melting, liquid is formed similarly on freezing solid is formed."
+College : Student :: Hospital : ?,"['Nurse', 'Doctor', 'Treatment', 'Patient']",D,As Students read in College similarly Patients are treated in Hospital.
+Tree : Forest :: Grass : ?,"['Lawn', 'Garden', 'Park', 'Field']",A,As Tree is found in Forest similarly Grass is found in Lawn.
+South : North-West :: West : ?,"['North', 'South-West', 'North-East', 'East']",C,As North-West is 135oclockwise from South in the same were North-East is 135oclockwise from the West.
+Cloth : Mill :: Newspaper : ?,"['Editor', 'Reader', 'Paper', 'Press']",D,"As Cloth is made in a Mill, similarly Newspaper is printed in press."
+Country : President :: State : ?,"['Governor', 'M.P', 'Legislator', 'Minister']",A,"As President is the nominal head of a country, similarly Governer is the nominal head of a State."
+Paw : Cat :: Hoof : ?,"['Lamb', 'Elephant', 'Lion', 'Horse']",D,As cat has Paw similarly Horse has Hoof.
+Race : Fatigue :: Fast : ?,"['Food', 'Laziness', 'Hunger', 'Race']",C,As the result of Race is Fatigue similarly the result of Fast is Hunger.
+Peace : Chaos :: Creation : ?,"['Build', 'Construction', 'Destruction', 'Manufacture']",C,As opposite meaning of peace is chaos similarly opposite meaning of creation is destruction.
+Tiger : Forest :: Otter : ?,"['Cage', 'Sky', 'Nest', 'Water']",D,As Tiger is found in Forest similarly  Otter is found in the water.
+Poles : Magnet :: ? : Battery,"['Cells', 'Power', 'Terminals', 'Energy']",C,As magnet has poles similarly battery has terminals.
+Cassock : Priest :: ? : Graduate,"['Cap', 'Tie', 'Coat', 'Gown']",D,A Priest wears cassock while Graduate wears gown.
+Ice : Coldness :: Earth : ?,"['Weight', 'Jungle', 'Gravitation', 'Sea']",C,As effect of Ice is coldness similarly the effect of Earth is gravitation.
+Parts : Strap :: Wolf : ?,"['Fox', 'Animal', 'Wood', 'Flow']",D,
+Physician : Treatment :: Judge : ?,"['Punishment', 'Judgement', 'Lawyer', 'Court']",B,As Physician does the treatment similarly Judge delivers the judgement.
+Ornithologist : Bird :: Archaeologist : ?,"['Islands', 'Mediators', 'Archaeology', 'Aquatic']",C,As Ornithologist is a specialist of Birds similarly Archaeologist is a specialist of Archaeology.
+Peacock : India :: Bear : ?,"['Australia', 'America', 'Russia', 'England']",C,"As Peacock is the national bird of India, similarly Bear is the national animal of Russia."
+REASON : SFBTPO :: THINK : ?,"['SGHMJ', 'UIJOL', 'UHNKI', 'UJKPM']",B,
+Carbon : Diamond :: Corundum : ?,"['Garnet', 'Ruby', 'Pukhraj', 'Pearl']",B,As Diamond is made of Carbon similarly Ruby is made of Corundum.
+NATION : ANTINO :: HUNGRY : ?,"['HNUGRY', 'UHNGYR', 'YRNGUH', 'UNHGYR']",B,
+Architect : Building :: Sculptor : ?,"['Museum', 'Stone', 'Chisel', 'Statue']",D,As 'Architect' makes 'Building' similarly 'Sculptor' makes 'Statue'.
+Eye : Myopia :: Teeth : ?,"['Pyorrhoea', 'Cataract', 'Trachoma', 'Eczema']",A,As Myopia is disease of eye similarly pyorrhoea is a disease of teeth.

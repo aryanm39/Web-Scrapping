@@ -1,0 +1,16 @@
+question,options,answer,explanation
+Which of the following statements is not correct?,"['log1010 = 1', 'log (2 + 3) = log (2 x 3)', 'log101 = 0', 'log (1 + 2 + 3) = log 1 + log 2 + log 3']",B,"(a) Since logaa= 1, so log1010 = 1.(b) log (2 + 3) = log 5 and log (2 x 3) = log 6 = log 2 + log 3log (2 + 3)log (2 x 3)(c) Since loga1 = 0, so log101 = 0.(d) log (1 + 2 + 3) = log 6 = log (1 x 2 x 3) = log 1 + log 2 + log 3.So, (b) is incorrect."
+"If log 2 = 0.3010 and log 3 = 0.4771, the value of log5512 is:","['2.870', '2.967', '3.876', '3.912']",C,log5512=log 512log 5=log 29log (10/2)=9 log 2log 10 - log 2=(9 x 0.3010)1 - 0.3010=2.7090.699=2709699= 3.876
+"If log 2 = 0.30103, the number of digits in 264is:","['18', '19', '20', '21']",C,"log (264)= 64 x log 2= (64 x 0.30103)= 19.26592Its characteristic is 19.Hence, then number of digits in 264is 20."
+"If logx9= -1, thenxis equal to:162","['-34', '34', '81256', '25681']",D,logx9= -1162x-1/2=9161=9x16x=169x=1629x=25681
+"Ifax=by, then:","['loga=xby', 'loga=xlogby', 'loga=ylogbx', 'None of these']",C,ax=bylogax= logbyxloga=ylogbloga=y.logbx
+"If logxy= 100 and log2x= 10, then the value ofyis:","['210', '2100', '21000', '210000']",C,log2x= 10x= 210.logxy= 100y=x100y= (210)100[put value ofx]y= 21000.
+The value of log216 is:,"['18', '4', '8', '16']",B,"Let log216 =n.Then, 2n= 16 = 24n= 4.log216 = 4."
+log8is equal to:log 8,"['18', '14', '12', '18']",C,log8=log (8)1/2=log 8=1.log 8log 8log 82
+"If log 27 = 1.431, then the value of log 9 is:","['0.934', '0.945', '0.954', '0.958']",C,log 27 = 1.431log (33) = 1.4313 log 3 = 1.431log 3 = 0.477log 9 = log(32) = 2 log 3 = (2 x 0.477) = 0.954.
+"If loga+logb= log (a+b), then:ba","['a+b= 1', 'a-b= 1', 'a=b', 'a2-b2= 1']",A,"loga+ logb= log (a+b)balog (a+b) = logaxb= log 1.baSo,a+b= 1."
+"If log107 =a, then log101is equal to:70","['- (1 +a)', '(1 +a)-1', 'a10', '110a']",A,log10170= log101 - log1070= - log10(7 x 10)= - (log107 + log1010)= - (a+ 1).
+"If log102 = 0.3010, then log210 is equal to:","['699301', '1000301', '0.3010', '0.6990']",B,log210 =1=1=10000=1000.log1020.30103010301
+"If log102 = 0.3010, the value of log1080 is:","['1.6020', '1.9030', '3.9030', 'None of these']",B,log1080= log10(8 x 10)= log108 + log1010= log10(23) + 1= 3 log102 + 1= (3 x 0.3010) + 1= 1.9030.
+"If log105 + log10(5x+ 1) = log10(x+ 5) + 1, thenxis equal to:","['1', '3', '5', '10']",B,log105 + log10(5x+ 1) = log10(x+ 5) + 1log105 + log10(5x+ 1) = log10(x+ 5) + log1010log10[5 (5x+ 1)] = log10[10(x+ 5)]5(5x+ 1) = 10(x+ 5)5x+ 1 = 2x+ 103x= 9x= 3.
+The value of1+1+1is:log360log460log560,"['0', '1', '5', '60']",B,Given expression= log603 + log604 + log605= log60(3 x 4 x 5)= log6060= 1.

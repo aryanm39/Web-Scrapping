@@ -1,0 +1,42 @@
+question,options,answer,explanation
+Evaluate :(2.39)2- (1.61)22.39 - 1.61,"['2', '4', '6', '8']",B,Given Expression =a2-b2=(a+b)(a-b)= (a+b) = (2.39 + 1.61) = 4.a-b(a-b)
+What decimal of an hour is a second ?,"['.0025', '.0256', '.00027', '.000126']",C,Required decimal =1=1= .0002760 x 603600
+0.04 x 0.0162 is equal to:,"['6.48 x 10-3', '6.48 x 10-4', '6.48 x 10-5', '6.48 x 10-6']",B,"4 x 162 = 648. Sum of decimal places = 6.So, 0.04 x 0.0162 = 0.000648 = 6.48 x 10-4"
+4.2 x 4.2 - 1.9 x 1.9is equal to:2.3 x 6.1,"['0.5', '1.0', '20', '22']",B,Given Expression =(a2-b2)=(a2-b2)= 1.(a+b)(a-b)(a2-b2)
+"If144=14.4, then the value ofxis:0.144x","['0.0144', '1.44', '14.4', '144']",A,144=14.40.144x144 x 1000=14.4144xx =14.4= 0.01441000
+"The price of commodityXincreases by 40 paise every year, while the price of commodityYincreases by 15 paise every year. If in 2001, the price of commodityXwas Rs. 4.20 and that ofYwas Rs. 6.30, in which year commodityXwill cost 40 paise more than the commodityY?","['2010', '2011', '2012', '2013']",B,"Suppose commodityXwill cost 40 paise more thanYafterzyears.Then, (4.20 + 0.40z) - (6.30 + 0.15z) = 0.400.25z= 0.40 + 2.10z=2.50=250= 10.0.2525Xwill cost 40 paise more thanY10 years after 2001i.e.,2011."
+Which of the following are in descending order of their value ?,"['1,2,3,4,5,6357567', '1,2,3,4,5,6355767', '1,2,3,4,5,6355677', '6,5,4,3,2,1765753']",D,No answer description is available.Let's discuss.
+Which of the following fractions is greater than3and less than5?46,"['12', '23', '45', '910']",C,"3= 0.75,5= 0.833,1= 0.5,2= 0.66,4= 0.8,9= 0.9.4623510Clearly, 0.8 lies between 0.75 and 0.833.4lies between3and5.546"
+The rational number for recurring decimal 0.125125.... is:,"['63487', '119993', '125999', 'None of these']",C,0.125125... = 0.125=125999
+617 + 6.017 + 0.617 + 6.0017 = ?,"['6.2963', '62.965', '629.6357', 'None of these']",C,"617.00
+    6.017
+    0.617
+ +  6.0017
+  --------
+  629.6357
+  ---------"
+The value of489.1375 x 0.0483 x 1.956is closest to:0.0873 x 92.581 x 99.749,"['0.006', '0.06', '0.6', '6']",B,489.1375 x 0.0483 x 1.956489 x 0.05 x 20.0873 x 92.581 x 99.7490.09 x 93 x 100=4899 x 93 x 10=163x127910=0.5810= 0.0580.06.
+0.002 x 0.5 = ?,"['0.0001', '0.001', '0.01', '0.1']",B,2 x 5 = 10.Sum of decimal places = 40.002 x 0.5 = 0.001
+The value of(0.96)3- (0.1)3is:(0.96)2+ 0.096 + (0.1)2,"['0.86', '0.95', '0.97', '1.06']",A,Given expression=(0.96)3- (0.1)3(0.96)2+ (0.96 x 0.1) + (0.1)2=a3-b3a2+ab+b2= (a-b)= (0.96 - 0.1)= 0.86
+34.95 + 240.016 + 23.98 = ?,"['298.0946', '298.111', '298.946', '299.09']",C,"34.95
+  240.016
+ + 23.98
+ --------
+  298.946
+ --------"
+Which of the following is equal to 3.14 x 106?,"['314', '3140', '3140000', 'None of these']",C,3.14 x 106= 3.14 x 1000000 = 3140000.
+The least among the following is:,"['0.2', '1 ÷ 0.2', '0.2', '(0.2)2']",D,"1 ÷ 0.2 =1=10= 5;0.220.2= 0.222...;(0.2)2= 0.04.0.04 < 0.2 < 0.22....<5.Since 0.04 is the least, so (0.2)2is the least."
+5 x 1.6 - 2 x 1.4= ?1.3,"['0.4', '1.2', '1.4', '4']",D,Given Expression =8 - 2.8=5.2=52= 4.1.31.313
+How many digits will be there to the right of the decimal point in the product of 95.75 and .02554 ?,"['5', '6', '7', 'None of these']",B,"Sum of decimal places = 7.Since the last digit to the extreme right will be zero (since 5 x 4 = 20), so there will be 6 significant digits to the right of the decimal point."
+The correct expression of 6.46in the fractional form is:,"['64699', '646401000', '640100', '64099']",D,6.46= 6 + 0.46= 6 +46=594 + 46=640.999999
+The fraction 10127in decimal for is:100000,"['.01027', '.10127', '101.00027', '101.000027']",C,10127= 101 +27= 101 + .00027 = 101.00027100000100000
+0.0203 x 2.92= ?0.0073 x 14.5 x 0.7,"['0.8', '1.45', '2.40', '3.25']",A,0.0203 x 2.92=203 x 292=4= 0.80.0073 x 14.5 x 0.773 x 145 x 75
+4.036 divided by 0.04 gives :,"['1.009', '10.09', '100.9', 'None of these']",C,4.036=403.6= 100.90.044
+3.87- 2.59= ?,"['1.20', '1.2', '1.27', '1.28']",D,3.87- 2.59= (3 + 0.87) - (2 + 0.59)=3 +87-2 +599999= 1 +87-599999= 1 +2899= 1.28.
+The value of0.1 x 0.1 x 0.1 + 0.02 x 0.02 x 0.02is:0.2 x 0.2 x 0.2 + 0.04 x 0.04 x 0.04,"['0.0125', '0.125', '0.25', '0.5']",B,Given expression =(0.1)3+ (0.02)3=1= 0.12523[(0.1)3+ (0.02)3]8
+"If 2994 ÷ 14.5 = 172, then 29.94 ÷ 1.45 = ?","['0.172', '1.72', '17.2', '172']",C,"29.94=299.41.4514.5=2994x1[ Here, Substitute 172 in the place of 2994/14.5 ]14.510=17210= 17.2"
+"When 0.232323..... is converted into a fraction, then the result is:","['15', '29', '2399', '23100']",C,0.232323... = 0.23=2399
+.009= .01?,"['.0009', '.09', '.9', '9']",C,Let.009= .01;     Thenx=.009=.9= .9x.011
+The expression (11.98 x 11.98 + 11.98 xx+ 0.02 x 0.02) will be a perfect square forxequal to:,"['0.02', '0.2', '0.04', '0.4']",C,"Given expression = (11.98)2+ (0.02)2+ 11.98  xx.For the given expression to be a perfect square, we must have11.98 xx= 2 x 11.98 x 0.02 orx= 0.04"
+(0.1667)(0.8333)(0.3333)is approximately equal to:(0.2222)(0.6667)(0.1250),"['2', '2.40', '2.43', '2.50']",D,Given expression=(0.3333)x(0.1667)(0.8333)(0.2222)(0.6667)(0.1250)=3333x1x56622222x12531000=3x1x5x3x 82662=52= 2.50
+3889 + 12.952  - ? = 3854.002,"['47.095', '47.752', '47.932', '47.95']",D,Let 3889 + 12.952 -x= 3854.002.Thenx= (3889 + 12.952) - 3854.002= 3901.952 - 3854.002= 47.95.

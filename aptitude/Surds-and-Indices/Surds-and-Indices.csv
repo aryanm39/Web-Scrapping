@@ -1,0 +1,15 @@
+question,options,answer,explanation
+(17)3.5x (17)?= 178,"['2.29', '2.75', '4.25', '4.5']",D,"Let (17)3.5x (17)x= 178.Then, (17)3.5 +x= 178.3.5 +x= 8x= (8 - 3.5)x= 4.5"
+"Ifax- 1=bx- 3, then the value ofxis:ba","['12', '1', '2', '72']",C,Givenax- 1=bx- 3baax- 1=a-(x- 3)=a(3 -x)bbbx- 1 = 3 -x2x= 4x= 2.
+(243)n/5x 32n+ 1= ?9nx 3n- 1,"['1', '2', '9', '3n']",C,Given Expression=(243)(n/5)x 32n+ 19nx 3n- 1=(35)(n/5)x 32n+ 1(32)nx 3n- 1=(35 x (n/5)x 32n+ 1)(32nx 3n- 1)=3nx 32n+ 132nx 3n- 1=3(n+ 2n+ 1)3(2n+n- 1)=33n+ 133n- 1= 3(3n+ 1 - 3n+ 1)= 32= 9.
+1+1= ?1 +a(n-m)1 +a(m-n),"['0', '12', '1', 'am+n']",C,1+1=1+11 +anam1 +aman1 +a(n-m)1 +a(m-n)=am+an(am+an)(am+an)=(am+an)(am+an)= 1.
+"Ifmandnare whole numbers such thatmn= 121, the value of (m- 1)n+ 1is:","['1', '10', '121', '1000']",D,"We know that 112= 121.Puttingm= 11 andn= 2, we get:(m- 1)n+ 1= (11 - 1)(2 + 1)= 103= 1000."
+xb(b+c-a).xc(c+a-b).xa(a+b-c)= ?xcxaxb,"['xabc', '1', 'xab+bc+ca', 'xa+b+c']",B,Given Exp.=x(b-c)(b+c-a).x(c-a)(c+a-b).x(a-b)(a+b-c)=x(b-c)(b+c) -a(b-c).x(c-a)(c+a) -b(c-a).x(a-b)(a+b) -c(a-b)=x(b2-c2+c2-a2+a2-b2).x-a(b-c) -b(c-a) -c(a-b)= (x0xx0)= (1 x 1) = 1.
+"Ifx= 3 + 22, then the value ofx-1is:x","['1', '2', '22', '33']",B,x-12=x+1- 2xx= (3 + 22) +1- 2(3 + 22)= (3 + 22) +1x(3 - 22)- 2(3 + 22)(3 - 22)= (3 + 22) + (3 - 22) - 2= 4.x-1= 2.x
+"Given that 100.48=x, 100.70=yandxz=y2, then the value ofzis close to:","['1.45', '1.88', '2.9', '3.7']",C,xz=y210(0.48z)= 10(2 x 0.70)= 101.400.48z= 1.40z=140=35= 2.9 (approx.)4812
+"If 5a= 3125, then the value of 5(a- 3)is:","['25', '125', '625', '1625']",A,5a= 31255a= 55a= 5.5(a- 3)= 5(5 - 3)= 52= 25.
+"If 3(x-y)= 27 and 3(x+y)= 243, thenxis equal to:","['0', '2', '4', '6']",C,"3x-y= 27 = 33x-y= 3 ....(i)3x+y= 243 = 35x+y= 5 ....(ii)On solving (i) and (ii), we getx= 4."
+(256)0.16x (256)0.09= ?,"['4', '16', '64', '256.25']",A,(256)0.16x (256)0.09= (256)(0.16 + 0.09)= (256)0.25= (256)(25/100)= (256)(1/4)= (44)(1/4)= 44(1/4)= 41= 4
+The value of [(10)150÷ (10)146],"['1000', '10000', '100000', '106']",B,(10)150÷ (10)146=1015010146= 10150 - 146= 104= 10000.
+1+1+1= ?1 +x(b-a)+x(c-a)1 +x(a-b)+x(c-b)1 +x(b-c)+x(a-c),"['0', '1', 'xa-b-c', 'None of these']",B,Given Exp. =1+1+11 +xb+xcxaxa1 +xa+xcxbxb1 +xb+xaxcxc=xa+xb+xc(xa+xb+xc)(xa+xb+xc)(xa+xb+xc)=(xa+xb+xc)(xa+xb+xc)= 1.
+(0.04)-1.5= ?,"['25', '125', '250', '625']",B,(0.04)-1.5=4-1.5100=1-(3/2)25= (25)(3/2)= (52)(3/2)= (5)2 x (3/2)= 53= 125.

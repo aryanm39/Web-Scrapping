@@ -1,0 +1,36 @@
+question,options,answer,explanation
+The cube root of .000216 is:,"['.6', '.06', '77', '87']",B,(.000216)1/3=2161/3106=6 x 6 x 61/3102x 102x 102=6102=6100= 0.06
+What should come in place of bothxin the equationx=162.128x,"['12', '14', '144', '196']",A,Letx=162128xThenx2=128 x 162=64 x 2 x 18 x 9=82x 62x 32= 8 x 6 x 3= 144.x=144= 12.
+625x14x11is equal to:1125196,"['5', '6', '8', '11']",A,Given Expression =25x14x11= 5.11514
+0.0169 x ?= 1.3,"['10', '100', '1000', 'None of these']",B,"Let0.0169 xx= 1.3.Then, 0.0169x= (1.3)2= 1.69x=1.69= 1000.0169"
+3-12simplifies to:3,"['34', '43', '43', 'None of these']",C,3-12= (3)2+12- 2 x3x1333= 3 +1- 23= 1 +13=43
+How many two-digit numbers satisfy this property.: The last digit (unit's digit) of the square of the two-digit number is 8 ?,"['1', '2', '3', 'None of these']",D,A number ending in 8 can never be a perfect square.
+The square root of 64009 is:,"['253', '347', '363', '803']",A,"2|64009( 253
+    |4
+    |----------
+  45|240
+    |225
+    |----------
+ 503|  1509
+    |  1509
+    |----------
+    |     X
+    |----------64009= 253."
+"The least perfect square, which is divisible by each of 21, 36 and 66 is:","['213444', '214344', '214434', '231444']",A,"L.C.M. of 21, 36, 66 = 2772.Now, 2772 = 2 x 2 x 3 x 3 x 7 x 11To make it a perfect square, it must be multiplied by 7 x 11.So, required number = 22x 32x 72x 112= 213444"
+1.5625= ?,"['1.05', '1.25', '1.45', '1.55']",B,"1|1.5625( 1.25
+    |1
+    |-------
+  22| 56
+    | 44
+    |-------
+ 245| 1225
+    | 1225
+    |-------
+    |    X
+    |-------1.5625= 1.25."
+"If 35+125= 17.88, then what will be the value of80+ 65?","['13.41', '20.46', '21.66', '22.35']",D,35+125= 17.8835+25 x 5= 17.8835+ 55= 17.8885= 17.885= 2.23580+ 65=16 x 5+ 65= 45+ 65= 105= (10 x 2.235) = 22.35
+"Ifa= 0.1039, then the value of4a2- 4a+ 1+ 3ais:","['0.1039', '0.2078', '1.1039', '2.1039']",C,4a2- 4a+ 1+ 3a=(1)2+ (2a)2- 2 x 1 x 2a+ 3a=(1 - 2a)2+ 3a= (1 - 2a) + 3a= (1 +a)= (1 + 0.1039)= 1.1039
+"Ifx=3+ 1andy=3- 1, then the value of (x2+y2) is:3- 13+ 1","['10', '13', '14', '15']",C,x=(3+ 1)x(3+ 1)=(3+ 1)2=3 + 1 + 23= 2 +3.(3- 1)(3+ 1)(3 - 1)2y=(3- 1)x(3- 1)=(3- 1)2=3 + 1 - 23= 2 -3.(3+ 1)(3- 1)(3 - 1)2x2+y2= (2 +3)2+ (2 -3)2= 2(4 + 3)= 14
+"A group of students decided to collect as many paise from each member of group as is the number of members. If the total collection amounts to Rs. 59.29, the number of the member is the group is:","['57', '67', '77', '87']",C,Money collected = (59.29 x 100) paise = 5929 paise.Number of members =5929= 77.
+The square root of (7 + 35) (7 - 35) is,"['5', '2', '4', '35']",B,(7 + 35)(7 - 35)=(7)2- (35)2=49 - 45=4= 2.
+"If5= 2.236, then the value of5-10+125is equal to:25","['5.59', '7.826', '8.944', '10.062']",B,5-10+125=(5)2- 20 + 25x 552525=5 - 20 + 5025=35x5255=35510=7 x 2.2362= 7 x 1.118= 7.826
