@@ -95,6 +95,9 @@ def process_single_file(file_path):
         options_div = soup.find("div", class_="bix-tbl-options")
         options = [opt.get_text(strip=True) for opt in options_div.find_all("div", class_="bix-td-option-val")] if options_div else []
 
+        if len(options) != 4:
+            return None
+
         answer_input = soup.find("input", class_="jq-hdnakq")
         answer = answer_input['value'] if answer_input else "N/A"
 
@@ -156,7 +159,7 @@ def realtime_firebase(category, csv_path, query):
         log_file.write_text(str(last_uploaded_index + len(batch)))
 
 if __name__ == "__main__":
-    categories = ["Verbal-Reasoning", "Logical-Reasoning", "aptitude"]
+    categories = ["aptitude", "Verbal-Reasoning", "Logical-Reasoning"]
 
     for category in categories:
         csv_file_path = script_dir / f"{category}.csv"
