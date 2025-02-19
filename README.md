@@ -36,44 +36,11 @@ CREDENTIALS_JSON=<your_firebase_credentials_json>
 3. Ensure `chromedriver` is installed for Selenium.
 4. Run the script:
    ```bash
-   python indiabix_optimised.py
+   python indiabix.py
    ```
-
-## Usage
-### Functionality
-- **Scrape Questions:**
-  ```python
-  scrape_indiabix(category, query, query_number, start_page, end_page)
-  ```
-  Scrapes questions from Indiabix for the specified category and range.
-
-- **Process HTML Files:**
-  ```python
-  process_html_files(category, query)
-  ```
-  Converts extracted HTML files into structured CSV format.
-
-- **Upload to Firebase:**
-  ```python
-  realtime_firebase(category, csv_path, query)
-  ```
-  Uploads processed data to Firebase Realtime Database.
 
 ## Logging
 The script uses Python's `logging` module to log warnings, errors, and progress updates.
-
-## File Structure
-```
-├── indiabix_optimised.py
-├── .env
-├── requirements.txt
-├── INDIABIX/
-│   ├── <Category>/<Topics>/
-│   │   ├── 0.html
-│   │   ├── 1.html
-│   │   ├── Category.csv
-│   │   ├── Category.log
-```
 
 ## Notes
 - Ensure a stable internet connection while scraping.
