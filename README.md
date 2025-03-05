@@ -38,11 +38,3 @@ CREDENTIALS_JSON=<your_firebase_credentials_json>
    ```bash
    python indiabix.py
    ```
-
-## Logging
-The script uses Python's `logging` module to log warnings, errors, and progress updates.
-
-## Notes
-- Ensure a stable internet connection while scraping.
-- The script automatically retries when an internet issue is detected.
-- Firebase credentials should be securely managed.
