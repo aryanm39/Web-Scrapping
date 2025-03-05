@@ -27,11 +27,6 @@ DATABASE_URL=<your_firebase_database_url>
 CREDENTIALS_JSON=<your_firebase_credentials_json>
 ```
 
-## Setup
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 2. Set up the `.env` file with Firebase credentials.
 3. Ensure `chromedriver` is installed for Selenium.
 4. Run the script:
