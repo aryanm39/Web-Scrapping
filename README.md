@@ -16,7 +16,7 @@ This Python script scrapes questions from Indiabix, processes the extracted HTML
 Ensure you have the following libraries installed:
 
 ```bash
-pip install requests pandas selenium beautifulsoup4 firebase-admin python-dotenv
+pip install -r .\requirements.txt
 ```
 
 ### Environment Variables (.env file)
